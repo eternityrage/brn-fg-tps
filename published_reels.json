@@ -16,5 +16,23 @@
       "status": "success",
       "url": "https://facebook.com/1426962672882747"
     }
+  },
+  {
+    "timestamp": "2026-10-10T03:53:05.980136+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_avalanche_rush_man_office_worker_face_with_monocle_20261010_035301.mp4",
+    "mode": "avalanche_rush",
+    "hero": "man_office_worker",
+    "item": "face_with_monocle",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "4515590962055103",
+      "comment_id": "4515590962055103_2276611586453019",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4515590962055103"
+    }
   }
 ]
