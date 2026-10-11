@@ -88,5 +88,23 @@
       "status": "success",
       "url": "https://facebook.com/2848046408908966"
     }
+  },
+  {
+    "timestamp": "2026-10-11T10:13:03.126149+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_spring_trap_release_woman_office_worker_weary_face_20261011_101300.mp4",
+    "mode": "spring_trap_release",
+    "hero": "woman_office_worker",
+    "item": "weary_face",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1819190799250609",
+      "comment_id": "1819190799250609_1408908544284361",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1819190799250609"
+    }
   }
 ]
