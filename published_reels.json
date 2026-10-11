@@ -70,5 +70,23 @@
       "status": "success",
       "url": "https://facebook.com/2136206967265599"
     }
+  },
+  {
+    "timestamp": "2026-10-11T01:06:37.741032+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_vertical_piston_cup_with_straw_woman_deaf_20261011_010633.mp4",
+    "mode": "vertical_piston",
+    "hero": "cup_with_straw",
+    "item": "woman_deaf",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "2848046408908966",
+      "comment_id": "2848046408908966_3539959492846785",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2848046408908966"
+    }
   }
 ]
