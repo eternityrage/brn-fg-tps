@@ -142,5 +142,23 @@
       "status": "success",
       "url": "https://facebook.com/1503827791605017"
     }
+  },
+  {
+    "timestamp": "2026-10-12T11:11:31.334889+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_metronome_tick_beer_mug_japanese_post_office_20261012_111127.mp4",
+    "mode": "metronome_tick",
+    "hero": "beer_mug",
+    "item": "japanese_post_office",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1104206352515782",
+      "comment_id": "1104206352515782_1439854901430450",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1104206352515782"
+    }
   }
 ]
