@@ -214,5 +214,23 @@
       "status": "success",
       "url": "https://facebook.com/2326596401527686"
     }
+  },
+  {
+    "timestamp": "2026-10-13T19:55:40.633031+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_microscope_focus_bottle_with_popping_cork_takeout_box_20261013_195537.mp4",
+    "mode": "microscope_focus",
+    "hero": "bottle_with_popping_cork",
+    "item": "takeout_box",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "2519895848532448",
+      "comment_id": "2519895848532448_1652537056407504",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2519895848532448"
+    }
   }
 ]
