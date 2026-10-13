@@ -178,5 +178,23 @@
       "status": "success",
       "url": "https://facebook.com/1845085316934971"
     }
+  },
+  {
+    "timestamp": "2026-10-13T03:06:33.308064+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_heartbeat_pulse_wave_taurus_bus_stop_20261013_030629.mp4",
+    "mode": "heartbeat_pulse_wave",
+    "hero": "taurus",
+    "item": "bus_stop",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1898627637776421",
+      "comment_id": "1898627637776421_1122509713651068",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1898627637776421"
+    }
   }
 ]
