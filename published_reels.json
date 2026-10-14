@@ -232,5 +232,23 @@
       "status": "success",
       "url": "https://facebook.com/2519895848532448"
     }
+  },
+  {
+    "timestamp": "2026-10-14T01:19:15.624380+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_wobble_jelly_woman_singer_butter_20261014_011910.mp4",
+    "mode": "wobble_jelly",
+    "hero": "woman_singer",
+    "item": "butter",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1089059643944909",
+      "comment_id": "1089059643944909_1389297506526579",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1089059643944909"
+    }
   }
 ]
