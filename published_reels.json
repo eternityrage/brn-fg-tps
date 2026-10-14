@@ -268,5 +268,23 @@
       "status": "success",
       "url": "https://facebook.com/1050996934650502"
     }
+  },
+  {
+    "timestamp": "2026-10-14T18:06:56.631377+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_card_flip_vertical_collision_alembic_20261014_180653.mp4",
+    "mode": "card_flip_vertical",
+    "hero": "collision",
+    "item": "alembic",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1104512169032272",
+      "comment_id": "1104512169032272_1822080848801727",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1104512169032272"
+    }
   }
 ]
