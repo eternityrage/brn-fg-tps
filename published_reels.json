@@ -250,5 +250,23 @@
       "status": "success",
       "url": "https://facebook.com/1089059643944909"
     }
+  },
+  {
+    "timestamp": "2026-10-14T08:55:02.108482+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_vertical_vise_smiling_face_with_heart_eyes_wing_20261014_085457.mp4",
+    "mode": "vertical_vise",
+    "hero": "smiling_face_with_heart_eyes",
+    "item": "wing",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1050996934650502",
+      "comment_id": "1050996934650502_1598548064533103",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1050996934650502"
+    }
   }
 ]
