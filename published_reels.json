@@ -322,5 +322,23 @@
       "status": "success",
       "url": "https://facebook.com/2182747938987546"
     }
+  },
+  {
+    "timestamp": "2026-10-15T13:38:33.477293+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_double_pendulum_chaos_woozy_face_eight_pointed_star_20261015_133830.mp4",
+    "mode": "double_pendulum_chaos",
+    "hero": "woozy_face",
+    "item": "eight_pointed_star",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1797440218240962",
+      "comment_id": "1797440218240962_1742576083517504",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1797440218240962"
+    }
   }
 ]
