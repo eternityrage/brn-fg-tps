@@ -286,5 +286,23 @@
       "status": "success",
       "url": "https://facebook.com/1104512169032272"
     }
+  },
+  {
+    "timestamp": "2026-10-15T00:40:58.461926+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_glitch_matrix_jitter_sun_with_face_racing_car_20261015_004054.mp4",
+    "mode": "glitch_matrix_jitter",
+    "hero": "sun_with_face",
+    "item": "racing_car",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "2322401831927275",
+      "comment_id": "2322401831927275_983660090712803",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2322401831927275"
+    }
   }
 ]
