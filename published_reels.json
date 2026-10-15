@@ -340,5 +340,23 @@
       "status": "success",
       "url": "https://facebook.com/1797440218240962"
     }
+  },
+  {
+    "timestamp": "2026-10-15T20:27:08.817330+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_depth_3d_tunnel_glasses_money_bag_20261015_202704.mp4",
+    "mode": "depth_3d_tunnel",
+    "hero": "glasses",
+    "item": "money_bag",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1713875520304773",
+      "comment_id": "1713875520304773_3190030117860895",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1713875520304773"
+    }
   }
 ]
