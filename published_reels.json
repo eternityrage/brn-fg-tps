@@ -394,5 +394,23 @@
       "status": "success",
       "url": "https://facebook.com/1823478125507981"
     }
+  },
+  {
+    "timestamp": "2026-10-16T13:24:25.462602+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_subway_surfer_lanes_bubble_tea_tomato_20261016_132420.mp4",
+    "mode": "subway_surfer_lanes",
+    "hero": "bubble_tea",
+    "item": "tomato",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1076337258548165",
+      "comment_id": "1076337258548165_28594328863595013",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1076337258548165"
+    }
   }
 ]
