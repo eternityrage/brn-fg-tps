@@ -376,5 +376,23 @@
       "status": "success",
       "url": "https://facebook.com/1741310266957228"
     }
+  },
+  {
+    "timestamp": "2026-10-16T08:22:54.800202+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_triangle_bounce_baby_symbol_oncoming_bus_20261016_082249.mp4",
+    "mode": "triangle_bounce",
+    "hero": "baby_symbol",
+    "item": "oncoming_bus",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1823478125507981",
+      "comment_id": "1823478125507981_1793031821783111",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1823478125507981"
+    }
   }
 ]
