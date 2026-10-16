@@ -412,5 +412,23 @@
       "status": "success",
       "url": "https://facebook.com/1076337258548165"
     }
+  },
+  {
+    "timestamp": "2026-10-16T17:35:06.567596+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_shockwave_pulse_ice_skate_person_elf_20261016_173502.mp4",
+    "mode": "shockwave_pulse",
+    "hero": "ice_skate",
+    "item": "person_elf",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1090406077301770",
+      "comment_id": "1090406077301770_1580240430049387",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1090406077301770"
+    }
   }
 ]
