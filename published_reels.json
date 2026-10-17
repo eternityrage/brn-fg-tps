@@ -484,5 +484,23 @@
       "status": "success",
       "url": "https://facebook.com/4703961533151829"
     }
+  },
+  {
+    "timestamp": "2026-10-17T16:34:11.520206+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_teleport_snap_owl_water_buffalo_20261017_163407.mp4",
+    "mode": "teleport_snap",
+    "hero": "owl",
+    "item": "water_buffalo",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1478377830875076",
+      "comment_id": "1478377830875076_1419804282996215",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1478377830875076"
+    }
   }
 ]
