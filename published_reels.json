@@ -430,5 +430,23 @@
       "status": "success",
       "url": "https://facebook.com/1090406077301770"
     }
+  },
+  {
+    "timestamp": "2026-10-17T00:39:37.999213+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_carousel_tilt_automobile_white_cane_20261017_003934.mp4",
+    "mode": "carousel_tilt",
+    "hero": "automobile",
+    "item": "white_cane",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1697281955305950",
+      "comment_id": "1697281955305950_1534806438524808",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1697281955305950"
+    }
   }
 ]
