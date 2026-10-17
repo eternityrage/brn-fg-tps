@@ -502,5 +502,23 @@
       "status": "success",
       "url": "https://facebook.com/1478377830875076"
     }
+  },
+  {
+    "timestamp": "2026-10-17T19:35:48.150733+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_tornado_vortex_mechanic_anchor_20261017_193543.mp4",
+    "mode": "tornado_vortex",
+    "hero": "mechanic",
+    "item": "anchor",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1885379742750554",
+      "comment_id": "1885379742750554_1387944563295840",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1885379742750554"
+    }
   }
 ]
