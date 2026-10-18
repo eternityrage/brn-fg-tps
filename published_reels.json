@@ -538,5 +538,23 @@
       "status": "success",
       "url": "https://facebook.com/1090830747089006"
     }
+  },
+  {
+    "timestamp": "2026-10-18T08:13:20.706019+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_avalanche_rush_sun_behind_rain_cloud_ten_thirty_20261018_081316.mp4",
+    "mode": "avalanche_rush",
+    "hero": "sun_behind_rain_cloud",
+    "item": "ten_thirty",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1421513426096168",
+      "comment_id": "1421513426096168_1108931778663576",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1421513426096168"
+    }
   }
 ]
