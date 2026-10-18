@@ -556,5 +556,23 @@
       "status": "success",
       "url": "https://facebook.com/1421513426096168"
     }
+  },
+  {
+    "timestamp": "2026-10-18T12:42:25.754801+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_zigzag_lightning_tropical_drink_playground_slide_20261018_124220.mp4",
+    "mode": "zigzag_lightning",
+    "hero": "tropical_drink",
+    "item": "playground_slide",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1655395682913682",
+      "comment_id": "1655395682913682_2071181003526054",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1655395682913682"
+    }
   }
 ]
