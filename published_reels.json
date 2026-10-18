@@ -520,5 +520,23 @@
       "status": "success",
       "url": "https://facebook.com/1885379742750554"
     }
+  },
+  {
+    "timestamp": "2026-10-18T00:08:32.838847+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_dual_bullet_collision_chequered_flag_bar_chart_20261018_000828.mp4",
+    "mode": "dual_bullet_collision",
+    "hero": "chequered_flag",
+    "item": "bar_chart",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1090830747089006",
+      "comment_id": "1090830747089006_2022348292503204",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1090830747089006"
+    }
   }
 ]
