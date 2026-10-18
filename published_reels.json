@@ -592,5 +592,23 @@
       "status": "success",
       "url": "https://facebook.com/1417591823822418"
     }
+  },
+  {
+    "timestamp": "2026-10-18T19:31:50.357982+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_meteor_strike_globe_showing_asia_australia_mirror_20261018_193145.mp4",
+    "mode": "meteor_strike",
+    "hero": "globe_showing_asia_australia",
+    "item": "mirror",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "3755005226184881",
+      "comment_id": "3755005226184881_2146214835980411",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3755005226184881"
+    }
   }
 ]
