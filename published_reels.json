@@ -610,5 +610,23 @@
       "status": "success",
       "url": "https://facebook.com/3755005226184881"
     }
+  },
+  {
+    "timestamp": "2026-10-19T00:20:01.280053+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_electric_arc_jump_no_smoking_crayon_20261019_001958.mp4",
+    "mode": "electric_arc_jump",
+    "hero": "no_smoking",
+    "item": "crayon",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1109543411673523",
+      "comment_id": "1109543411673523_1146761624358335",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1109543411673523"
+    }
   }
 ]
