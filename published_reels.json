@@ -700,5 +700,23 @@
       "status": "success",
       "url": "https://facebook.com/2350875795695842"
     }
+  },
+  {
+    "timestamp": "2026-10-20T18:03:36.356539+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_wobble_jelly_cocktail_glass_green_heart_20261020_180333.mp4",
+    "mode": "wobble_jelly",
+    "hero": "cocktail_glass",
+    "item": "green_heart",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1688559759573202",
+      "comment_id": "1688559759573202_4058333407802796",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1688559759573202"
+    }
   }
 ]
