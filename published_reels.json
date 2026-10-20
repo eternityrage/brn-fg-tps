@@ -664,5 +664,23 @@
       "status": "success",
       "url": "https://facebook.com/1416269803441165"
     }
+  },
+  {
+    "timestamp": "2026-10-20T01:09:01.084130+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_matrix_2x2_comet_low_battery_20261020_010856.mp4",
+    "mode": "matrix_2x2",
+    "hero": "comet",
+    "item": "low_battery",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "2586128191859355",
+      "comment_id": "2586128191859355_974499565732441",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2586128191859355"
+    }
   }
 ]
