@@ -682,5 +682,23 @@
       "status": "success",
       "url": "https://facebook.com/2586128191859355"
     }
+  },
+  {
+    "timestamp": "2026-10-20T08:45:58.559197+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_sine_wave_meander_fire_troll_20261020_084553.mp4",
+    "mode": "sine_wave_meander",
+    "hero": "fire",
+    "item": "troll",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "2350875795695842",
+      "comment_id": "2350875795695842_1636168307881390",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2350875795695842"
+    }
   }
 ]
