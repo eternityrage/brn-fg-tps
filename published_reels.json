@@ -736,5 +736,23 @@
       "status": "success",
       "url": "https://facebook.com/3299580416912405"
     }
+  },
+  {
+    "timestamp": "2026-10-21T08:46:34.353907+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_heartbeat_pulse_wave_person_facepalming_video_camera_20261021_084628.mp4",
+    "mode": "heartbeat_pulse_wave",
+    "hero": "person_facepalming",
+    "item": "video_camera",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "2131271624148975",
+      "comment_id": "2131271624148975_1409588202236640",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2131271624148975"
+    }
   }
 ]
