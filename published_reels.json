@@ -718,5 +718,23 @@
       "status": "success",
       "url": "https://facebook.com/1688559759573202"
     }
+  },
+  {
+    "timestamp": "2026-10-21T00:43:36.206527+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_black_hole_event_horizon_exploding_head_drum_20261021_004332.mp4",
+    "mode": "black_hole_event_horizon",
+    "hero": "exploding_head",
+    "item": "drum",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "3299580416912405",
+      "comment_id": "3299580416912405_1433518591502406",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3299580416912405"
+    }
   }
 ]
