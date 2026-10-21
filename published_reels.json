@@ -772,5 +772,23 @@
       "status": "success",
       "url": "https://facebook.com/2030910370930672"
     }
+  },
+  {
+    "timestamp": "2026-10-21T20:19:07.853202+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_pyramid_wave_two_thirty_green_square_20261021_201903.mp4",
+    "mode": "pyramid_wave",
+    "hero": "two_thirty",
+    "item": "green_square",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1555913959635490",
+      "comment_id": "1555913959635490_1810864663272352",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1555913959635490"
+    }
   }
 ]
