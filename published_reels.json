@@ -808,5 +808,23 @@
       "status": "success",
       "url": "https://facebook.com/1684270466400541"
     }
+  },
+  {
+    "timestamp": "2026-10-22T05:51:32.142033+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_rubiks_slice_turn_sparkles_yarn_20261022_055129.mp4",
+    "mode": "rubiks_slice_turn",
+    "hero": "sparkles",
+    "item": "yarn",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1781871519596524",
+      "comment_id": "1781871519596524_1803996964148301",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1781871519596524"
+    }
   }
 ]
