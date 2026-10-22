@@ -826,5 +826,23 @@
       "status": "success",
       "url": "https://facebook.com/1781871519596524"
     }
+  },
+  {
+    "timestamp": "2026-10-22T07:54:35.338211+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_glitch_matrix_jitter_ringed_planet_toolbox_20261022_075430.mp4",
+    "mode": "glitch_matrix_jitter",
+    "hero": "ringed_planet",
+    "item": "toolbox",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1806239850590527",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1806239850590527"
+    }
   }
 ]
