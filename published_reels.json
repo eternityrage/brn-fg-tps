@@ -790,5 +790,23 @@
       "status": "success",
       "url": "https://facebook.com/1555913959635490"
     }
+  },
+  {
+    "timestamp": "2026-10-22T00:08:41.536892+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_anti_gravity_launch_flashlight_keycap_9_20261022_000836.mp4",
+    "mode": "anti_gravity_launch",
+    "hero": "flashlight",
+    "item": "keycap_9",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1684270466400541",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1684270466400541"
+    }
   }
 ]
