@@ -844,5 +844,23 @@
       "status": "success",
       "url": "https://facebook.com/1806239850590527"
     }
+  },
+  {
+    "timestamp": "2026-10-24T21:25:21.580927+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_cannonball_ballistic_baby_bottle_cross_mark_20261024_212517.mp4",
+    "mode": "cannonball_ballistic",
+    "hero": "baby_bottle",
+    "item": "cross_mark",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1304584475090470",
+      "comment_id": "1304584475090470_2025655298095606",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1304584475090470"
+    }
   }
 ]
