@@ -882,5 +882,25 @@
       "status": "success",
       "url": "https://facebook.com/1591632835593779"
     }
+  },
+  {
+    "timestamp": "2026-10-25T08:42:09.713574+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_diamond_grid_4_man_in_manual_wheelchair_burrito_20261025_084205.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "diamond_grid_4",
+    "hero": "man_in_manual_wheelchair",
+    "item": "burrito",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "2015049419192247",
+      "comment_id": "2015049419192247_2201982623724336",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2015049419192247"
+    }
   }
 ]
