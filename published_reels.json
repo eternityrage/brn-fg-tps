@@ -922,5 +922,25 @@
       "status": "success",
       "url": "https://facebook.com/1438852400908613"
     }
+  },
+  {
+    "timestamp": "2026-10-25T17:12:05.413345+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_hyperspace_warp_drive_winking_face_adhesive_bandage_20261025_171159.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "hyperspace_warp_drive",
+    "hero": "winking_face",
+    "item": "adhesive_bandage",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1430157021958546",
+      "comment_id": "1430157021958546_1626647756170513",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1430157021958546"
+    }
   }
 ]
