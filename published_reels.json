@@ -1042,5 +1042,25 @@
       "status": "success",
       "url": "https://facebook.com/1585140230297340"
     }
+  },
+  {
+    "timestamp": "2026-10-26T21:47:22.744457+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_triple_zoom_stagger_potted_plant_hammer_and_wrench_20261026_214718.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "triple_zoom_stagger",
+    "hero": "potted_plant",
+    "item": "hammer_and_wrench",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "29236048896035636",
+      "comment_id": "29236048896035636_2552493021844362",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29236048896035636"
+    }
   }
 ]
