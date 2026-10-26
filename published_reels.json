@@ -982,5 +982,25 @@
       "status": "success",
       "url": "https://facebook.com/1671257877938192"
     }
+  },
+  {
+    "timestamp": "2026-10-26T09:19:43.555028+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_shockwave_pulse_teacup_without_handle_lobster_20261026_091939.mp4",
+    "family_id": 11,
+    "family_name": "Heartbeat Pulse Monitors",
+    "mode": "shockwave_pulse",
+    "hero": "teacup_without_handle",
+    "item": "lobster",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1622289812911321",
+      "comment_id": "1622289812911321_1575041900974957",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1622289812911321"
+    }
   }
 ]
