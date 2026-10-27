@@ -1102,5 +1102,25 @@
       "status": "success",
       "url": "https://facebook.com/1687583876064483"
     }
+  },
+  {
+    "timestamp": "2026-10-27T18:59:31.902909+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_meteor_strike_fried_shrimp_t_shirt_20261027_185927.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "fried_shrimp",
+    "item": "t_shirt",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1643105190536676",
+      "comment_id": "1643105190536676_1678732313670120",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1643105190536676"
+    }
   }
 ]
