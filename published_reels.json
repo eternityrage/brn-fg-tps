@@ -1122,5 +1122,25 @@
       "status": "success",
       "url": "https://facebook.com/1643105190536676"
     }
+  },
+  {
+    "timestamp": "2026-10-27T21:27:15.156080+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_rebound_wall_bounce_woman_mage_face_with_open_mouth_20261027_212709.mp4",
+    "family_id": 14,
+    "family_name": "Kinetic Floor Rebounders",
+    "mode": "rebound_wall_bounce",
+    "hero": "woman_mage",
+    "item": "face_with_open_mouth",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "2208722590061703",
+      "comment_id": "2208722590061703_3347483155438438",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2208722590061703"
+    }
   }
 ]
