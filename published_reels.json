@@ -1222,5 +1222,25 @@
       "status": "success",
       "url": "https://facebook.com/1655212459312556"
     }
+  },
+  {
+    "timestamp": "2026-10-28T21:51:35.661752+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_anamorphic_stretch_smiling_face_with_hearts_dove_20261028_215130.mp4",
+    "family_id": 38,
+    "family_name": "Staggered Triple Zooms",
+    "mode": "anamorphic_stretch",
+    "hero": "smiling_face_with_hearts",
+    "item": "dove",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1666892805105656",
+      "comment_id": "1666892805105656_1706652280831865",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1666892805105656"
+    }
   }
 ]
