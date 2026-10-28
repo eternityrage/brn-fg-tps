@@ -1142,5 +1142,25 @@
       "status": "success",
       "url": "https://facebook.com/2208722590061703"
     }
+  },
+  {
+    "timestamp": "2026-10-28T01:36:45.168724+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_zigzag_lightning_sunrise_over_mountains_banana_20261028_013639.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "zigzag_lightning",
+    "hero": "sunrise_over_mountains",
+    "item": "banana",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1655522999312448",
+      "comment_id": "1655522999312448_1687521192963601",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1655522999312448"
+    }
   }
 ]
