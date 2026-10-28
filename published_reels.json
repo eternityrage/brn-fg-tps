@@ -1162,5 +1162,25 @@
       "status": "success",
       "url": "https://facebook.com/1655522999312448"
     }
+  },
+  {
+    "timestamp": "2026-10-28T09:59:35.731719+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_dual_bullet_collision_wine_glass_left_arrow_curving_right_20261028_095930.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "dual_bullet_collision",
+    "hero": "wine_glass",
+    "item": "left_arrow_curving_right",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1590838423071536",
+      "comment_id": "1590838423071536_3533722716787399",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1590838423071536"
+    }
   }
 ]
