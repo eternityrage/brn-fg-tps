@@ -1302,5 +1302,25 @@
       "status": "success",
       "url": "https://facebook.com/2199701270981577"
     }
+  },
+  {
+    "timestamp": "2026-10-29T19:10:38.852086+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_tornado_vortex_alarm_clock_videocassette_20261029_191034.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "tornado_vortex",
+    "hero": "alarm_clock",
+    "item": "videocassette",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1349755887102150",
+      "comment_id": "1349755887102150_1460454895964742",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1349755887102150"
+    }
   }
 ]
