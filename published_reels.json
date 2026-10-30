@@ -1382,5 +1382,25 @@
       "status": "success",
       "url": "https://facebook.com/1593196358790918"
     }
+  },
+  {
+    "timestamp": "2026-10-30T15:15:23.529995+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_spiral_galaxy_in_framed_picture_cross_mark_button_20261030_151520.mp4",
+    "family_id": 22,
+    "family_name": "Logarithmic Spiral Galaxies",
+    "mode": "spiral_galaxy_in",
+    "hero": "framed_picture",
+    "item": "cross_mark_button",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1469782491669275",
+      "comment_id": "1469782491669275_1153143060530092",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1469782491669275"
+    }
   }
 ]
