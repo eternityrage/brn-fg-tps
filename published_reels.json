@@ -1362,5 +1362,25 @@
       "status": "success",
       "url": "https://facebook.com/1807555400514253"
     }
+  },
+  {
+    "timestamp": "2026-10-30T10:25:08.198365+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_swing_diagonal_slash_ice_tamale_20261030_102505.mp4",
+    "family_id": 4,
+    "family_name": "Diagonal Slash Trajectories",
+    "mode": "swing_diagonal_slash",
+    "hero": "ice",
+    "item": "tamale",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1593196358790918",
+      "comment_id": "1593196358790918_2170307710590492",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1593196358790918"
+    }
   }
 ]
