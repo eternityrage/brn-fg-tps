@@ -1442,5 +1442,25 @@
       "status": "success",
       "url": "https://facebook.com/1475701201149489"
     }
+  },
+  {
+    "timestamp": "2026-10-31T01:45:50.496911+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_double_pendulum_chaos_breast_feeding_bowling_20261031_014545.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "double_pendulum_chaos",
+    "hero": "breast_feeding",
+    "item": "bowling",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1397158612613826",
+      "comment_id": "1397158612613826_1130834886303983",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1397158612613826"
+    }
   }
 ]
