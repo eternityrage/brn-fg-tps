@@ -1502,5 +1502,25 @@
       "status": "success",
       "url": "https://facebook.com/1838679493954654"
     }
+  },
+  {
+    "timestamp": "2026-10-31T17:54:00.674174+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_shockwave_pulse_boxing_glove_raised_back_of_hand_20261031_175355.mp4",
+    "family_id": 11,
+    "family_name": "Heartbeat Pulse Monitors",
+    "mode": "shockwave_pulse",
+    "hero": "boxing_glove",
+    "item": "raised_back_of_hand",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1114951147943686",
+      "comment_id": "1114951147943686_1108326622044662",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1114951147943686"
+    }
   }
 ]
