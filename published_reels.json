@@ -1642,5 +1642,25 @@
       "status": "success",
       "url": "https://facebook.com/29084611041219188"
     }
+  },
+  {
+    "timestamp": "2026-11-02T01:45:43.518822+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_meteor_strike_broom_nerd_face_20261102_014540.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "broom",
+    "item": "nerd_face",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1005256295968082",
+      "comment_id": "1005256295968082_967200742680933",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1005256295968082"
+    }
   }
 ]
