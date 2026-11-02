@@ -1662,5 +1662,25 @@
       "status": "success",
       "url": "https://facebook.com/1005256295968082"
     }
+  },
+  {
+    "timestamp": "2026-11-02T11:38:49.910659+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_zigzag_lightning_mouth_fuel_pump_20261102_113844.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "zigzag_lightning",
+    "hero": "mouth",
+    "item": "fuel_pump",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1844914233602938",
+      "comment_id": "1844914233602938_1663852945404331",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1844914233602938"
+    }
   }
 ]
