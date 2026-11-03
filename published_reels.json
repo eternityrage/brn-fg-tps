@@ -1802,5 +1802,25 @@
       "status": "success",
       "url": "https://facebook.com/985696764014298"
     }
+  },
+  {
+    "timestamp": "2026-11-03T20:15:41.861922+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_card_flip_vertical_horse_unlocked_20261103_201536.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_vertical",
+    "hero": "horse",
+    "item": "unlocked",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1804293164242169",
+      "comment_id": "1804293164242169_4530133170576313",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1804293164242169"
+    }
   }
 ]
