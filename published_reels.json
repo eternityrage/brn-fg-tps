@@ -1722,5 +1722,25 @@
       "status": "success",
       "url": "https://facebook.com/1392873655968319"
     }
+  },
+  {
+    "timestamp": "2026-11-03T00:00:05.121006+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_dual_bullet_collision_sheaf_of_rice_robot_20261103_000001.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "dual_bullet_collision",
+    "hero": "sheaf_of_rice",
+    "item": "robot",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "2055165478532811",
+      "comment_id": "2055165478532811_1146229394568137",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2055165478532811"
+    }
   }
 ]
