@@ -1922,5 +1922,25 @@
       "status": "success",
       "url": "https://facebook.com/29420469110974155"
     }
+  },
+  {
+    "timestamp": "2026-11-04T22:48:12.813320+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_glitch_matrix_jitter_clapping_hands_spaghetti_20261104_224809.mp4",
+    "family_id": 48,
+    "family_name": "High-Frequency Strobe Freezes",
+    "mode": "glitch_matrix_jitter",
+    "hero": "clapping_hands",
+    "item": "spaghetti",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1832596284538665",
+      "comment_id": "1832596284538665_1581431144004385",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1832596284538665"
+    }
   }
 ]
