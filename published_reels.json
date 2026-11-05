@@ -2022,5 +2022,25 @@
       "status": "success",
       "url": "https://facebook.com/3418438601682020"
     }
+  },
+  {
+    "timestamp": "2026-11-05T22:47:25.907260+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_double_pendulum_chaos_shower_brain_20261105_224721.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "double_pendulum_chaos",
+    "hero": "shower",
+    "item": "brain",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1003373918740896",
+      "comment_id": "1003373918740896_1839225077502383",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1003373918740896"
+    }
   }
 ]
