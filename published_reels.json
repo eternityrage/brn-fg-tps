@@ -2122,5 +2122,25 @@
       "status": "success",
       "url": "https://facebook.com/1680933666816730"
     }
+  },
+  {
+    "timestamp": "2026-11-06T22:15:56.305308+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_teleport_snap_pretzel_bat_20261106_221553.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "teleport_snap",
+    "hero": "pretzel",
+    "item": "bat",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "29229803156684636",
+      "comment_id": "29229803156684636_1132557196309556",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29229803156684636"
+    }
   }
 ]
