@@ -2062,5 +2062,25 @@
       "status": "success",
       "url": "https://facebook.com/1142094048254179"
     }
+  },
+  {
+    "timestamp": "2026-11-06T11:26:09.362603+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_dual_zoom_inverse_cityscape_at_dusk_red_triangle_pointed_down_20261106_112604.mp4",
+    "family_id": 37,
+    "family_name": "Optical Scale Pulses",
+    "mode": "dual_zoom_inverse",
+    "hero": "cityscape_at_dusk",
+    "item": "red_triangle_pointed_down",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "2067335303953093",
+      "comment_id": "2067335303953093_1065768133139477",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2067335303953093"
+    }
   }
 ]
