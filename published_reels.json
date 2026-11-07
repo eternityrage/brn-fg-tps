@@ -2182,5 +2182,25 @@
       "status": "success",
       "url": "https://facebook.com/1591014639447972"
     }
+  },
+  {
+    "timestamp": "2026-11-07T15:02:37.400908+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_tornado_vortex_cup_with_straw_man_lifting_weights_20261107_150232.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "tornado_vortex",
+    "hero": "cup_with_straw",
+    "item": "man_lifting_weights",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1123190923454988",
+      "comment_id": "1123190923454988_999096806020867",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1123190923454988"
+    }
   }
 ]
