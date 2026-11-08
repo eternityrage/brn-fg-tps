@@ -2302,5 +2302,25 @@
       "status": "success",
       "url": "https://facebook.com/1427053436254155"
     }
+  },
+  {
+    "timestamp": "2026-11-08T18:28:07.182671+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_cannonball_ballistic_wine_glass_sunrise_over_mountains_20261108_182802.mp4",
+    "family_id": 15,
+    "family_name": "Parabolic Cannonballs",
+    "mode": "cannonball_ballistic",
+    "hero": "wine_glass",
+    "item": "sunrise_over_mountains",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1442506828034882",
+      "comment_id": "1442506828034882_1152569040862483",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1442506828034882"
+    }
   }
 ]
