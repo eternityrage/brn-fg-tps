@@ -2362,5 +2362,25 @@
       "status": "success",
       "url": "https://facebook.com/2036377510336188"
     }
+  },
+  {
+    "timestamp": "2026-11-09T12:01:01.181264+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_corner_squeeze_satellite_man_golfing_20261109_120057.mp4",
+    "family_id": 35,
+    "family_name": "Mechanical Box Vises",
+    "mode": "corner_squeeze",
+    "hero": "satellite",
+    "item": "man_golfing",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1162829269412022",
+      "comment_id": "1162829269412022_1104114389096952",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1162829269412022"
+    }
   }
 ]
