@@ -2482,5 +2482,25 @@
       "status": "success",
       "url": "https://facebook.com/1116803287776137"
     }
+  },
+  {
+    "timestamp": "2026-11-10T16:34:36.612017+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_glitch_matrix_jitter_grinning_face_with_big_eyes_running_shoe_20261110_163433.mp4",
+    "family_id": 48,
+    "family_name": "High-Frequency Strobe Freezes",
+    "mode": "glitch_matrix_jitter",
+    "hero": "grinning_face_with_big_eyes",
+    "item": "running_shoe",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1106803035680389",
+      "comment_id": "1106803035680389_996665873520412",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1106803035680389"
+    }
   }
 ]
