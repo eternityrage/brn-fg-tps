@@ -2442,5 +2442,25 @@
       "status": "success",
       "url": "https://facebook.com/4465819283633663"
     }
+  },
+  {
+    "timestamp": "2026-11-10T04:16:53.654199+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_hyperspace_warp_drive_backpack_seat_20261110_041648.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "hyperspace_warp_drive",
+    "hero": "backpack",
+    "item": "seat",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "2353863498766563",
+      "comment_id": "2353863498766563_1611336236927608",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2353863498766563"
+    }
   }
 ]
