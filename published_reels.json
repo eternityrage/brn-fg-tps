@@ -2722,5 +2722,25 @@
       "status": "success",
       "url": "https://facebook.com/1760460241725823"
     }
+  },
+  {
+    "timestamp": "2026-11-13T11:28:44.146927+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_meteor_strike_satellite_antenna_left_arrow_curving_right_20261113_112839.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "satellite_antenna",
+    "item": "left_arrow_curving_right",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1676157080896677",
+      "comment_id": "1676157080896677_1503451968268848",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1676157080896677"
+    }
   }
 ]
