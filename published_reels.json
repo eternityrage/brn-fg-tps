@@ -2702,5 +2702,25 @@
       "status": "success",
       "url": "https://facebook.com/1116501771199048"
     }
+  },
+  {
+    "timestamp": "2026-11-13T02:51:49.826460+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_falling_gravity_baby_chick_green_circle_20261113_025146.mp4",
+    "family_id": 12,
+    "family_name": "Terminal Gravity Freefalls",
+    "mode": "falling_gravity",
+    "hero": "baby_chick",
+    "item": "green_circle",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1760460241725823",
+      "comment_id": "1760460241725823_1791739228782565",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1760460241725823"
+    }
   }
 ]
