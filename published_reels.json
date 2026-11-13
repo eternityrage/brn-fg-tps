@@ -2762,5 +2762,25 @@
       "status": "success",
       "url": "https://facebook.com/2297685150775120"
     }
+  },
+  {
+    "timestamp": "2026-11-13T20:38:21.054526+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_avalanche_rush_hourglass_done_twelve_thirty_20261113_203817.mp4",
+    "family_id": 15,
+    "family_name": "Parabolic Cannonballs",
+    "mode": "avalanche_rush",
+    "hero": "hourglass_done",
+    "item": "twelve_thirty",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1124706813790663",
+      "comment_id": "1124706813790663_1184632894223898",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1124706813790663"
+    }
   }
 ]
