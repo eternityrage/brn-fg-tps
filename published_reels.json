@@ -2822,5 +2822,25 @@
       "status": "success",
       "url": "https://facebook.com/1125953303379959"
     }
+  },
+  {
+    "timestamp": "2026-11-14T10:51:34.961268+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_cannonball_ballistic_smiling_face_with_hearts_woman_fairy_20261114_105131.mp4",
+    "family_id": 15,
+    "family_name": "Parabolic Cannonballs",
+    "mode": "cannonball_ballistic",
+    "hero": "smiling_face_with_hearts",
+    "item": "woman_fairy",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1814794289797139",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1814794289797139"
+    }
   }
 ]
