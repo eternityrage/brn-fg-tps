@@ -2942,5 +2942,25 @@
       "status": "success",
       "url": "https://facebook.com/1150492824195300"
     }
+  },
+  {
+    "timestamp": "2026-11-15T15:48:57.714743+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_spring_trap_release_sparkler_hut_20261115_154853.mp4",
+    "family_id": 7,
+    "family_name": "Elastic Springs & Snaps",
+    "mode": "spring_trap_release",
+    "hero": "sparkler",
+    "item": "hut",
+    "title": "Only Awake Minds Can Catch This! Stop It! \ud83d\ude80",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1003230152830945",
+      "comment_id": "1003230152830945_1416667707117895",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1003230152830945"
+    }
   }
 ]
