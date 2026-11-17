@@ -3082,5 +3082,25 @@
       "status": "success",
       "url": "https://facebook.com/2105142346872505"
     }
+  },
+  {
+    "timestamp": "2026-11-17T00:59:28.854014+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_zigzag_lightning_shield_ring_20261117_005924.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "zigzag_lightning",
+    "hero": "shield",
+    "item": "ring",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "1169187302721880",
+      "comment_id": "1169187302721880_1150885290750651",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1169187302721880"
+    }
   }
 ]
