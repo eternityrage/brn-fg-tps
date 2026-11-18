@@ -3222,5 +3222,25 @@
       "status": "success",
       "url": "https://facebook.com/2221027331825865"
     }
+  },
+  {
+    "timestamp": "2026-11-18T12:10:31.990477+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_metronome_tick_high_voltage_disappointed_face_20261118_121028.mp4",
+    "family_id": 50,
+    "family_name": "Precision Chrono Metronomes",
+    "mode": "metronome_tick",
+    "hero": "high_voltage",
+    "item": "disappointed_face",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "2561164731061123",
+      "comment_id": "2561164731061123_1191832080184220",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2561164731061123"
+    }
   }
 ]
