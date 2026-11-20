@@ -3482,5 +3482,25 @@
       "status": "success",
       "url": "https://facebook.com/1839871580654007"
     }
+  },
+  {
+    "timestamp": "2026-11-20T23:17:02.101848+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_inverted_pyramid_spaghetti_rhinoceros_20261120_231657.mp4",
+    "family_id": 43,
+    "family_name": "Fisheye Barrel Distortions",
+    "mode": "inverted_pyramid",
+    "hero": "spaghetti",
+    "item": "rhinoceros",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1690605442695594",
+      "comment_id": "1690605442695594_2494718450939026",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1690605442695594"
+    }
   }
 ]
