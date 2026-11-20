@@ -3422,5 +3422,25 @@
       "status": "success",
       "url": "https://facebook.com/1163087012978014"
     }
+  },
+  {
+    "timestamp": "2026-11-20T12:06:28.622732+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_sine_wave_meander_shrimp_diamond_suit_20261120_120625.mp4",
+    "family_id": 5,
+    "family_name": "Harmonic Sine Waves",
+    "mode": "sine_wave_meander",
+    "hero": "shrimp",
+    "item": "diamond_suit",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1923804965732449",
+      "comment_id": "1923804965732449_1161297636448969",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1923804965732449"
+    }
   }
 ]
