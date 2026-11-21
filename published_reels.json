@@ -3522,5 +3522,25 @@
       "status": "success",
       "url": "https://facebook.com/1457837322418815"
     }
+  },
+  {
+    "timestamp": "2026-11-21T11:40:26.609632+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_wobble_jelly_globe_showing_europe_africa_clamp_20261121_114021.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "wobble_jelly",
+    "hero": "globe_showing_europe_africa",
+    "item": "clamp",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1966891474694951",
+      "comment_id": "1966891474694951_1152877777190280",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1966891474694951"
+    }
   }
 ]
