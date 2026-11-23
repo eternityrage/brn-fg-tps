@@ -3742,5 +3742,25 @@
       "status": "success",
       "url": "https://facebook.com/1695545525694653"
     }
+  },
+  {
+    "timestamp": "2026-11-23T20:29:17.022078+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_zigzag_lightning_woman_mage_microphone_20261123_202913.mp4",
+    "family_id": 10,
+    "family_name": "Zigzag Lightning Bolts",
+    "mode": "zigzag_lightning",
+    "hero": "woman_mage",
+    "item": "microphone",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "2362429791248108",
+      "comment_id": "2362429791248108_963019900019287",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2362429791248108"
+    }
   }
 ]
