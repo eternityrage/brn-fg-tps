@@ -3862,5 +3862,25 @@
       "status": "success",
       "url": "https://facebook.com/1157437433651678"
     }
+  },
+  {
+    "timestamp": "2026-11-24T23:13:52.202927+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_shockwave_pulse_toilet_sign_of_the_horns_20261124_231347.mp4",
+    "family_id": 11,
+    "family_name": "Heartbeat Pulse Monitors",
+    "mode": "shockwave_pulse",
+    "hero": "toilet",
+    "item": "sign_of_the_horns",
+    "title": "BrainFog Wake-Up Test! Shock Your Reflexes \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1684236083294621",
+      "comment_id": "1684236083294621_1457261019259349",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1684236083294621"
+    }
   }
 ]
