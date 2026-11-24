@@ -3842,5 +3842,25 @@
       "status": "success",
       "url": "https://facebook.com/29200875999593855"
     }
+  },
+  {
+    "timestamp": "2026-11-24T19:40:35.347883+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_laser_scanner_sweep_cocktail_glass_egg_20261124_194031.mp4",
+    "family_id": 27,
+    "family_name": "Radar Beam Sweeps",
+    "mode": "laser_scanner_sweep",
+    "hero": "cocktail_glass",
+    "item": "egg",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "1157437433651678",
+      "comment_id": "1157437433651678_1148371747933515",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1157437433651678"
+    }
   }
 ]
