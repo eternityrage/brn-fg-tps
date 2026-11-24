@@ -3762,5 +3762,25 @@
       "status": "success",
       "url": "https://facebook.com/2362429791248108"
     }
+  },
+  {
+    "timestamp": "2026-11-24T01:10:25.508687+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_quad_lock_ice_hockey_hyacinth_20261124_011021.mp4",
+    "family_id": 35,
+    "family_name": "Mechanical Box Vises",
+    "mode": "quad_lock",
+    "hero": "ice_hockey",
+    "item": "hyacinth",
+    "title": "Morning Brain Buster: Beat The Shockwave! \u26a1",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "1873994437381278",
+      "comment_id": "1873994437381278_892513333918236",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1873994437381278"
+    }
   }
 ]
