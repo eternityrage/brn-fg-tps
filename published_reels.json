@@ -4062,5 +4062,25 @@
       "status": "success",
       "url": "https://facebook.com/1165537195918399"
     }
+  },
+  {
+    "timestamp": "2026-11-26T22:32:43.494349+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_cannonball_ballistic_white_medium_small_square_sad_but_relieved_face_20261126_223240.mp4",
+    "family_id": 15,
+    "family_name": "Parabolic Cannonballs",
+    "mode": "cannonball_ballistic",
+    "hero": "white_medium_small_square",
+    "item": "sad_but_relieved_face",
+    "title": "High-Voltage Reflex: Pause At 100% Power! \ud83d\udca5",
+    "pinned_comment": "\u26a1 MORNING WAKE-UP DRILL: Pause the reel at 100% alignment! Tag a friend who needs their morning coffee! \u2615\ud83d\udc47",
+    "facebook": {
+      "id": "28571976659147953",
+      "comment_id": "28571976659147953_1160580209667489",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/28571976659147953"
+    }
   }
 ]
