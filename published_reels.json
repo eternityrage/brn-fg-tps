@@ -4002,5 +4002,25 @@
       "status": "success",
       "url": "https://facebook.com/1107552165594058"
     }
+  },
+  {
+    "timestamp": "2026-11-26T04:19:57.665840+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_meteor_strike_violin_multiply_20261126_041953.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "violin",
+    "item": "multiply",
+    "title": "100% Alertness Drill! Freeze The Frame Instantly \ud83d\udd25",
+    "pinned_comment": "\ud83d\udd25 ALERTNESS CHECK: Are your morning reflexes awake? Drop your pause screenshot below! \ud83d\udc47 #BrainFogTaps",
+    "facebook": {
+      "id": "967195929577257",
+      "comment_id": "967195929577257_1719136669873311",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/967195929577257"
+    }
   }
 ]
