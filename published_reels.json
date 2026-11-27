@@ -4102,5 +4102,25 @@
       "status": "success",
       "url": "https://facebook.com/1129022143287044"
     }
+  },
+  {
+    "timestamp": "2026-11-27T04:29:28.127606+00:00Z",
+    "page_id": "1316150674917146",
+    "page_name": "BrainFog Taps",
+    "video_file": "reel_brainfog_glitch_matrix_jitter_flying_saucer_weary_face_20261127_042924.mp4",
+    "family_id": 48,
+    "family_name": "High-Frequency Strobe Freezes",
+    "mode": "glitch_matrix_jitter",
+    "hero": "flying_saucer",
+    "item": "weary_face",
+    "title": "Clear The Morning Fog: Can You Tap In Time? \u2615",
+    "pinned_comment": "\u26a1 BRAIN FOG DESTROYER:\n1. Wake up your brain: Hit pause right inside the glowing shockwave! \ud83d\udca5\n2. Share your screenshot below \ud83d\udc47\n3. Are you 100% awake yet? \u2615 #BrainFog",
+    "facebook": {
+      "id": "2264199961161834",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2264199961161834"
+    }
   }
 ]
